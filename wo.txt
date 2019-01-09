@@ -1,0 +1,11 @@
+var boolean a,boolean b,boolean c,boolean d,e,f;
+begin
+e:=1;
+f:=1;
+a:=false;
+b:=false;
+d:=not false;
+c:=a or d and (e+f );
+write(c);
+end
+.

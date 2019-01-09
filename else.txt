@@ -1,0 +1,9 @@
+var g;
+begin
+if 0=1
+then g:=10;
+else
+g:=11;
+write(g);
+end
+.

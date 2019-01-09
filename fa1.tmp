@@ -1,0 +1,22 @@
+0 var boolean a,boolean b,boolean c,boolean d,e,f;
+
+1 begin
+
+2 e:=1;
+
+4 f:=1;
+
+6 a:=false;
+
+8 b:=false;
+
+10 d:=not false;
+
+13 c:=a or d and (e+f );
+
+21 write(c);
+
+24 end
+
+24 .
+
